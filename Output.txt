@@ -1,0 +1,4 @@
+CLUBS   No missing card!
+HEARTS        3,4,9,10,13
+DIAMONDS  4,5,6,9,13
+SPADES  8,11,13
